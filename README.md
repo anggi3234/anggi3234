@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/biolinks32"><img src="https://api.daily.dev/devcards/9835359445314028b5079de6988ad5f1.png?r=z7b" width="400" alt="Alias's Dev Card"/></a>
+
 <!--
 **anggi3234/anggi3234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
